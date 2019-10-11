@@ -24,6 +24,10 @@ h1 {
     font-size: 300%;
 }
 
+h2 {
+    font-size: 200%;
+}
+
 h3 {
     font-size: 150%;
 }
@@ -31,7 +35,6 @@ h3 {
 h4 {
     font-size: 100%;
 } 
-
 
 p {
     font-size: 100%;
@@ -56,7 +59,7 @@ width: 10px;
 background: rgb(50, 50, 50, 100);
 }
 
-@media only screen and (max-device-width : 800px) {
+@media only screen and (max-device-width : 300px) {
     html {
         padding: 5%;
     }
