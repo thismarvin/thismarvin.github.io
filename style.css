@@ -58,34 +58,35 @@ background: rgb(50, 50, 50, 100);
 
 @media only screen and (max-device-width : 800px) {
     html {
-        padding: 8%;
+        padding: 5%;
     }
+
     body {
-        max-width: 900px;
+        max-width: 400px;
         padding-top: 20%;
         padding-bottom: 20%;
     }
 
     h1 {
-        font-size: 500%;
-    }
+        font-size: 300%;
+    }    
     
-    h4 {
+    h2 {
         font-size: 200%;
-    } 
-    
-    h3 {
-        font-size: 350%;
     }
 
     p {
-        font-size: 275%;
-        line-height: 150%;
+        font-size: 175%;
+        line-height: 120%;
         margin-bottom: 5%;
     }
 
     li {
-        font-size: 275%;
+        font-size: 120%;
         margin-bottom: 3%;
+    }
+
+    #title {
+        text-align: center;
     }
 }
