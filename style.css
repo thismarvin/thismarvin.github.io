@@ -16,7 +16,7 @@ body {
 
 * {
     font-family: 'PT Mono', sans-serif;
-    font-size: 20px;
+    font-size: 17px;
     color: white;
     text-align: left;
 }
@@ -39,7 +39,7 @@ h4 {
 
 p {
     font-size: 1.2em;
-    line-height: 1.5em;
+    line-height: 1.4em;
 }
 
 li {
@@ -51,8 +51,12 @@ a {
     color: skyblue;
 }
 
+hr {
+   border-color: darkgrey;
+}
+
 i.fab {
-    font-size: 2em;
+    font-size: 2.25em;
     color: whitesmoke;
     transition: transform;
 }
@@ -69,11 +73,12 @@ img.project-preview {
 }
 
 h3.project-title {
-    margin-top: 0.5em;
+    margin-top: 0.2em;
+    font-size: 1.75em;
 }
 
 h4.project-title {
-    color: whitesmoke;
+    color: darkgray;
     margin-bottom: 0;
 }
 
