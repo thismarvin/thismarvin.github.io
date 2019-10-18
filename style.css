@@ -21,28 +21,28 @@ body {
 }
 
 h1 {
-    font-size: 300%;
+    font-size: 3em;
 }
 
 h2 {
-    font-size: 200%;
+    font-size: 2em;
 }
 
 h3 {
-    font-size: 150%;
+    font-size: 1.5em;
 }
 
 h4 {
-    font-size: 100%;
+    font-size: 1em;
 } 
 
 p {
-    font-size: 120%;
+    font-size: 1.2em;
     line-height: 1.5em;
 }
 
 li {
-    font-size: 100%;
+    font-size: 1em;
     margin-bottom: 1%;
 }
 
@@ -51,7 +51,7 @@ a {
 }
 
 i.fab {
-    font-size: 200%;
+    font-size: 2em;
     color: whitesmoke;
     transition: transform;
 }
@@ -115,12 +115,8 @@ background: rgb(50, 50, 50, 100);
         padding: 10%;
     }
 
-    p {
-        font-size: 115%;
-    }
-
     li {
-        font-size: 120%;
+        font-size: 1.2em;
         margin-bottom: 3%;
     }
 }
