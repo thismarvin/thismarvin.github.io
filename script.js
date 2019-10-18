@@ -5,6 +5,8 @@ let endPoint = 0;
 
 initialize();
 
+setTimeout(animateEntry, 500);
+
 function initialize() {
     calculateBounds();
     animateEntry();
